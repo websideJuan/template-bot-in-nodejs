@@ -1,2 +1,11 @@
 .env
 node_modules
+
+assets
+css
+html
+js
+index.html
+main.js
+main.css
+objeto.js
